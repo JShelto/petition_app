@@ -25,6 +25,7 @@ end
 
 gem 'jquery-rails'
 gem 'devise'
+gem 'haml-rails'
 
 group :development, :test do 
   gem 'sqlite3'
@@ -34,6 +35,7 @@ group :development, :test do
   gem 'pry-rails'
   gem 'better_errors'
   gem 'shoulda-matchers'
+
 end
 
 
